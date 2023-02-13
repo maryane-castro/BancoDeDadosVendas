@@ -1,2 +1,2 @@
 # BancoDeDadosVendas
- banco de dados institucional para vendas(triggers)
+ banco de dados institucional para vendas(triggers) IFCE - Campus Maranguape
